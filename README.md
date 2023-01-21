@@ -14,4 +14,12 @@ _Al acceder a la aplicación nos encontraremos con 3 principales opciones, las c
 _Tras seleccionar una de estas opciones, nos encontraremos con una interfaz en la cuál se nos requiere que introduzcamos un peso mediante una barra y una entrada,
 una vez colocado los datos necesarios solo tendremos que hacer click izquierdo en el boton de "Calcular la salida", el programa nos devolvera un resultado en base a los datos añadidos anteriormente._
 
+_Lo mismo sucede con el resto de las opciones pendientes:_
+
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/65163077/213865550-2ad183cc-9fe2-479c-b519-ac0876c0d7ee.png">
+
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/65163077/213865557-91fb4084-bab1-4a41-8a7b-b87f57db7ed8.png">
+
+_En esta última lo unico practicamente diferente es que tenemos que añadir un sesgo a la operación, introducimos los datos solicitados anteriormente y en la parte baja, debemos añadir nuevos datos para el sesgo, una vez introducido todo se nos devolvera un resultado en la parte de abajo._
+
 
